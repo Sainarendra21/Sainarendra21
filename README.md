@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sainarendra21
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...frontend
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...frontend.
 - 📫 How to reach me ...www.twitter.com/@sainarendra_01/
 
 <!---
